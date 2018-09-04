@@ -1,0 +1,1 @@
+classification deploy.prototxt ./log/fer__iter_30000.caffemodel mean.binaryproto labels.txt grayyao.jpg

@@ -1,0 +1,1 @@
+convert_imageset --shuffle --gray -resize_height=48 --resize_width=48 ./datasets/train/ ./train.txt ./train_lmdb
